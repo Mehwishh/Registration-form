@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+.styleing{
+    color: purple;
+    text-decoration:underline ;
+    text-align: center;
+    
+}
+
+.headingone {
+    color: green;
+}
+#purple{
+    color:purple}
+
+fieldset{
+    background-color: rgb(124, 67, 230);
+    widows: 65px;
+}
+tr{
+    
+    font-family: Arial;
+    color: white;
+}
+img{
+     width: 30%;
+}
+.frony{
+    margin: 5px auto 5px auto;
+}
